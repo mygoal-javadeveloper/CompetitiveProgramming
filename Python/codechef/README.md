@@ -5,3 +5,4 @@
 |[Lapindromes](<https://www.codechef.com/LRNDSA01/problems/LAPIN>)|[lapindromes.py](<https://github.com/mygoal-javadeveloper/CompetitiveProgramming/blob/main/Python/codechef/lapindromes.py>)|
 |[Smart Phone](<https://www.codechef.com/LRNDSA01/problems/ZCO14003>)|[smart_phone.py](<https://github.com/mygoal-javadeveloper/CompetitiveProgramming/blob/main/Python/codechef/smart_phone.py>)|
 |[Carvans](<https://www.codechef.com/LRNDSA01/problems/CARVANS>)|[carvans.py](<https://github.com/mygoal-javadeveloper/CompetitiveProgramming/blob/main/Python/codechef/carvans.py>)|
+|[Factorial](<https://www.codechef.com/LRNDSA01/problems/FCTRL>)|[factorial.py](<https://github.com/mygoal-javadeveloper/CompetitiveProgramming/blob/main/Python/codechef/factorial.py>)|

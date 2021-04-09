@@ -11,3 +11,5 @@
 |problem mentioned in the comment in the file|[sahil_the_anime_lover.py](<https://github.com/mygoal-javadeveloper/CompetitiveProgramming/blob/main/Python/codechef/basic_testcases_passed/sahil_the_anime_lover.py>)|  
 |problem mentioned in the comment in the file|[sahil_the_anime_lover_2.py](<https://github.com/mygoal-javadeveloper/CompetitiveProgramming/blob/main/Python/codechef/basic_testcases_passed/sahil_the_anime_lover_2.py>)|  
 |problem mentioned in the comment in the file|[Colour_me_yellow.py](<https://github.com/mygoal-javadeveloper/CompetitiveProgramming/blob/main/Python/codechef/basic_testcases_passed/Colour_me_yellow.py>)|  
+|problem mentioned in the comment in the file|[charlie_and_prime_numbers.py](<https://github.com/mygoal-javadeveloper/CompetitiveProgramming/blob/main/Python/codechef/basic_testcases_passed/charlie_and_prime_numbers.py>)|  
+

@@ -1,7 +1,7 @@
 def findDigitsInBinary(A):
     binarystr = []
     if A == 0:
-        return '0000'
+        return '0'
     elif A > 0:
         while A > 0:
             binarystr.append(A % 2)
